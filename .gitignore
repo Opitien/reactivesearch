@@ -13,3 +13,6 @@ data
 yarn-error.log
 
 .yarn
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
